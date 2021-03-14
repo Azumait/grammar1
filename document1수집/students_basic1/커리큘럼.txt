@@ -1,0 +1,43 @@
+[공통]
+
+html:
+    basic1/html_basic1
+css:
+    basic1/css_basic1
+    숙제: 부트스크랩4(동빈나) 듣기
+js:
+    basic1/js_basic1
+    문제은행 풀기
+    숙제: 문제은행 풀기
+    숙제: 바닐라JS(노마드코더) 들으면서 시계앱 카피코딩
+    projects1/js_app1
+bootstrap4:
+    basic1/bootstrap_basic1
+concept:
+    basic1/기초지식
+
+
+
+[프론트엔드]
+vuejs:
+    fw1/js_vue1 (* _lala)
+reactjs:
+    fw1/js_react1
+gojs:
+    fw1/js_gojs1
+
+
+
+[백엔드]
+PHP:
+    basic1/php_basic1
+python:
+    basic1/python_basic1 : 기본문법, beautifulsoup
+    basic1/python_basic2 : 데이터분석, matplotlib, pandas, hadoop, tensorFlow (* _haji) (* _jeonso)
+    basic3/python_basic3 : 데이터분석과 엑셀연동하기, 배포, pyInstaller(로컬앱)
+    fw1/python_flask1 : 게시판 만들면서 기본 SQL 학습하기
+    fw1/python_flask2 : 데이터분석과 SQL연동하기, 배포, python anywhere(웹앱) (* 미완)
+java:
+    baisc1/java_basic1
+    fw1/java_springboot1
+    fw1/java_spring1

@@ -1,0 +1,38 @@
+div {
+    font-size:30px;
+    font-weight:bold;
+}
+
+.div1 {
+    color:red;
+}
+
+.div2 {
+    color:red;    
+}
+
+.div3 {
+    color:red;        
+}
+
+/* .div1, .div2, .div3 {
+    color:red;        
+} */
+
+
+
+#div1 {
+    color:blue;
+}
+
+#div2 {
+    color:blue;    
+}
+
+#div3 {
+    color:blue;        
+}
+
+/* #div1, #div2, #div3 {
+    color:blue;
+} */

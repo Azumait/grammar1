@@ -1,0 +1,10 @@
+<따두면 좋을 자격등>
+정보처리기사 (취업비자 처음 딸 경우에만)
+IT Passport
+aws Cloud Practitioner (학습시간 약 3일, 한국어 응시 가능) : https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/
+gcp
+azure AZ900 (학습시간 약 1주일)
+CCNA (1-2개월) : 사실상 따놓으면 제일 도움되는 것
+
+사내에서 aws또는 azure 자격증 취득 한 사람이 있는지 궁굼해 하시는 분들이 많아서 알려드리자면
+
