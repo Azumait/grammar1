@@ -8,8 +8,7 @@ from urllib.request import urlopen
 # 메모장 초기화
 fileName = 'output.txt'
 f = open(fileName, 'w', encoding='utf-8')
-data = ''
-f.write(data)
+f.write('')
 f.close()
     
 # url 파싱 : 분석할 수 있도록 소스를 추출하는 것

@@ -8,8 +8,7 @@ from urllib.request import urlopen
 # 메모장 초기화
 fileName = 'output.txt'
 f = open(fileName, 'w', encoding='utf-8')
-data = ''
-f.write(data)
+f.write('')
 f.close()
 
 # 사용자에게 입력값 받기

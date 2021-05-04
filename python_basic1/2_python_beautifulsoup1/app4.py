@@ -23,7 +23,7 @@ for anchor in soup.select('a'):
 
     # 메모장에 저장
     fileName = 'output.txt'
-    f = open(fileName, 'a', encoding='utf-8') # 'w'는 덮어씌우기, 'a'는 이어붙이기
+    f = open(fileName, 'a', encoding='utf-8')  # 'w'는 덮어씌우기, 'a'는 이어붙이기
     data = link + '\n'
     f.write(data)
     f.close()

@@ -1,30 +1,35 @@
 # [클래스 만들기, 상속]
-
 class Animal():
-    def walk(self):
+    # 변수 정의
+    isAlive = True
+    # 함수 정의
+    def walk():
         print("뚜벅뚜벅")
-    def eat(self):
+    def eat():
         print("냠냠")
-    def greet(self):
-        print("인사? 뭐지... 먹는건가")
+    def greet():
+        print("...")
 
 class Human(Animal):
-    def greet(self):
+    def greet():
         print("손을 흔들기!")
 
 # 상속 : Dog 클래스는 Animal 클래스를 상속받았다.
 class Dog(Animal):
-    def wag(self):
-        print("꼬리를 흔들어!")
-    def greet(self):
-        self.wag()
+    def greet():
+        print("꼬리를 흔들기!")
 
-lee = Human()     
-seora = Dog()
 
-lee.greet()
-lee.walk()
-lee.eat()
-seora.greet()
-seora.walk()
-seora.eat()
+# 변수, 함수 호출
+print(Animal.isAlive)
+Animal.walk()
+Animal.eat()
+Animal.greet()
+print(Human.isAlive)
+Human.walk()
+Human.eat()
+Human.greet()
+print(Dog.isAlive)
+Dog.walk()
+Dog.eat()
+Dog.greet()
